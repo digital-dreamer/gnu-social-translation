@@ -6,8 +6,8 @@ This repository serves as a mirror of the GNU social [translation project](https
 
 1. Make sure you have **Git** and **GNU Make** installed. On Ubuntu, or similar linux distribution, use `sudo apt-get install git make`
 2. Clone this repository using `git clone https://github.com/digital-dreamer/gnu-social-translation.git`, or if you already cloned it some time ago, update it using `git pull`
-3. Copy the 2 folders you see in the cloned repository (`locale` and `plugins`), and paste them into your GNU social instance's root folder.
-4. Go to your instance's root folder and run this command: `make translations`
+3. Copy the 2 folders you see in the cloned repository (`locale` and `plugins`), and paste them into the folder where you installed your GNU social instance.
+4. Go to that folder (where GNU social is installed) and run this command: `make translations`
 
 If you encounter any problems, please go to the issues section of this repository and open a new issue.
 
