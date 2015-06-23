@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
+# abjectio, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: GNU social\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-02 17:47+0100\n"
-"PO-Revision-Date: 2015-02-06 15:03+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-06-10 18:46+0000\n"
+"Last-Translator: abjectio\n"
 "Language-Team: Norwegian Bokmål (http://www.transifex.com/projects/p/gnu-social/language/nb/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,23 +22,23 @@ msgstr ""
 #: forms/blogentry.php:92
 msgctxt "LABEL"
 msgid "Title"
-msgstr ""
+msgstr "Tittel"
 
 #. TRANS: Field title on blog entry form.
 #: forms/blogentry.php:95
 msgid "Title of the blog entry."
-msgstr ""
+msgstr "Tittel på blog posten."
 
 #. TRANS: Field label on blog entry form.
 #: forms/blogentry.php:102
 msgctxt "LABEL"
 msgid "Text"
-msgstr ""
+msgstr "Tekst"
 
 #. TRANS: Field title on blog entry form.
 #: forms/blogentry.php:105
 msgid "Text of the blog entry."
-msgstr ""
+msgstr "Tekst for blogg posten."
 
 #. TRANS: Button text to save a blog entry.
 #: forms/blogentry.php:128
@@ -48,66 +49,66 @@ msgstr "Lagre"
 #. TRANS: Plugin description.
 #: BlogPlugin.php:102
 msgid "Let users write and share long-form texts."
-msgstr ""
+msgstr "La brukeren skrive og dele lengre tekster."
 
 #. TRANS: Blog application title.
 #: BlogPlugin.php:109
 msgctxt "TITLE"
 msgid "Blog"
-msgstr ""
+msgstr "Blogg"
 
 #. TRANS: Exception thrown when there are too many activity objects.
 #: BlogPlugin.php:126
 msgid "Too many activity objects."
-msgstr ""
+msgstr "For mange hendelses objekter."
 
 #. TRANS: Exception thrown when blog plugin comes across a non-blog entry type
 #. object.
 #: BlogPlugin.php:133
 msgid "Wrong type for object."
-msgstr ""
+msgstr "Feil type av objekt."
 
 #. TRANS: Exception thrown when blog plugin comes across a undefined verb.
 #: BlogPlugin.php:147
 msgid "Unknown verb for blog entries."
-msgstr ""
+msgstr "Ukjent verb for blogg hendelsen."
 
 #. TRANS: Exception thrown when requesting a non-existing blog entry for
 #. notice.
 #: BlogPlugin.php:159
 #, php-format
 msgid "No blog entry for notice %s."
-msgstr ""
+msgstr "Ingen blogg poster for notis %s."
 
 #. TRANS: Client exception thrown when trying to post a blog entry while not
 #. logged in.
 #: actions/newblogentry.php:74
 msgid "Must be logged in to post a blog entry."
-msgstr ""
+msgstr "Du må være innlogget for å publisere en blogg post."
 
 #. TRANS: Client exception thrown when trying to post a blog entry without
 #. providing a title.
 #: actions/newblogentry.php:84
 msgid "Title required."
-msgstr ""
+msgstr "Tittel kreves."
 
 #. TRANS: Client exception thrown when trying to post a blog entry without
 #. providing content.
 #: actions/newblogentry.php:91
 msgid "Content required."
-msgstr ""
+msgstr "Innhold kreves."
 
 #. TRANS: Page title after sending a notice.
 #: actions/newblogentry.php:126
 msgid "Blog entry saved"
-msgstr ""
+msgstr "Blogg posten er lagret."
 
 #. TRANS: Client exception thrown when referring to a non-existing blog entry.
 #: actions/showblogentry.php:60 actions/showblogentry.php:67
 msgid "No such entry."
-msgstr ""
+msgstr "Ingen slike innsalg."
 
 #. TRANS: Title for a blog entry without a title.
 #: actions/showblogentry.php:84
 msgid "Untitled"
-msgstr ""
+msgstr "Ingen tittel"

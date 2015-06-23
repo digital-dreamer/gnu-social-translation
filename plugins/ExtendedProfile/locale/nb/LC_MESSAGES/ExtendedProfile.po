@@ -151,7 +151,7 @@ msgstr "Fullt navn"
 #. TRANS: Field label for extended profile properties.
 #: lib/extendedprofile.php:299
 msgid "Title"
-msgstr ""
+msgstr "Tittel"
 
 #. TRANS: Field label for extended profile properties.
 #: lib/extendedprofile.php:304

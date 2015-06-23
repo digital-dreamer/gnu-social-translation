@@ -33,7 +33,7 @@ msgstr "Legg til"
 #: forms/bookmark.php:143
 msgctxt "LABEL"
 msgid "Title"
-msgstr ""
+msgstr "Tittel"
 
 #. TRANS: Field label on form for adding a new bookmark.
 #: forms/bookmark.php:153

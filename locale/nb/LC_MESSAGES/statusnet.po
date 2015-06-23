@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: GNU social\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-02 17:47+0100\n"
-"PO-Revision-Date: 2015-03-22 13:21+0000\n"
+"PO-Revision-Date: 2015-06-10 18:55+0000\n"
 "Last-Translator: abjectio\n"
 "Language-Team: Norwegian Bokmål (http://www.transifex.com/projects/p/gnu-social/language/nb/)\n"
 "MIME-Version: 1.0\n"
@@ -1706,7 +1706,7 @@ msgstr "Kan ikke avbyte eller godkjenne forespørsel for bruker %1$s for å bli 
 #, php-format
 msgctxt "TITLE"
 msgid "%1$s's request"
-msgstr ""
+msgstr "%1$s forespørsler"
 
 #. TRANS: Message on page for user after approving a subscription request.
 #: actions/approvesub.php:131
@@ -2744,14 +2744,14 @@ msgstr ""
 #. TRANS: Form validation error displayed if a given tag is invalid.
 #: actions/editpeopletag.php:252
 msgid "Invalid tag."
-msgstr ""
+msgstr "Ugyldig merkelapp."
 
 #. TRANS: Form validation error displayed if a given tag is already present.
 #. TRANS: %s is the already present tag.
 #: actions/editpeopletag.php:257
 #, php-format
 msgid "You already have a tag named %s."
-msgstr ""
+msgstr "Du har allerede en merkelapp med navngitt %s."
 
 #. TRANS: Text in confirmation dialog for setting a tag from public to
 #. private.
@@ -2764,7 +2764,7 @@ msgstr ""
 #. TRANS: Server error displayed when updating a list fails.
 #: actions/editpeopletag.php:295
 msgid "Could not update list."
-msgstr ""
+msgstr "Kunne ikke oppdatere listen."
 
 #. TRANS: Title for e-mail settings.
 #: actions/emailsettings.php:60
@@ -2963,7 +2963,7 @@ msgstr "Dette er feil e-postadresse."
 #. confirmation.
 #: actions/emailsettings.php:454
 msgid "Could not delete email confirmation."
-msgstr ""
+msgstr "Kunne ikke slette e-postbekreftelse."
 
 #. TRANS: Message given after successfully canceling e-mail address
 #. confirmation.
@@ -2998,7 +2998,7 @@ msgstr "Ingen innkommende e-postadresse."
 #: actions/emailsettings.php:523 actions/emailsettings.php:547
 #: actions/smssettings.php:562 actions/smssettings.php:587
 msgid "Could not update user record."
-msgstr ""
+msgstr "Kunne ikke oppdatere bruker informasjon."
 
 #. TRANS: Message given after successfully removing an incoming e-mail
 #. address.
@@ -3156,12 +3156,12 @@ msgstr "Er du sikker på at du vil blokkere brukeren «%1$s» fra gruppen «%2$s
 #. TRANS: Submit button title for 'No' when blocking a user from a group.
 #: actions/groupblock.php:183
 msgid "Do not block this user from this group."
-msgstr ""
+msgstr "Ikke blokker brukeren fra denne gruppen."
 
 #. TRANS: Submit button title for 'Yes' when blocking a user from a group.
 #: actions/groupblock.php:190
 msgid "Block this user from this group."
-msgstr ""
+msgstr "Blokker denne brukeren fra denne gruppen."
 
 #. TRANS: Server error displayed when trying to block a user from a group
 #. fails because of an application error.
@@ -3399,7 +3399,7 @@ msgstr "Direktemeldinger ikke tilgjengelig."
 #: actions/imsettings.php:116
 #, php-format
 msgid "Current confirmed %s address."
-msgstr ""
+msgstr "Nåværende bekreftet %s adresse."
 
 #. TRANS: Form note in IM settings form.
 #. TRANS: %s is the IM service name, %2$s is the IM address set.
@@ -3429,7 +3429,7 @@ msgstr "Direktemeldingsinnstillinger"
 #. TRANS: Checkbox label in IM preferences form.
 #: actions/imsettings.php:176
 msgid "Send me notices"
-msgstr ""
+msgstr "Send meg notiser"
 
 #. TRANS: Checkbox label in IM preferences form.
 #: actions/imsettings.php:178
@@ -3444,7 +3444,7 @@ msgstr ""
 #. TRANS: Checkbox label in IM preferences form.
 #: actions/imsettings.php:183
 msgid "Publish a MicroID"
-msgstr ""
+msgstr "Publiser en MicroID"
 
 #. TRANS: Server error thrown on database error updating IM preferences.
 #: actions/imsettings.php:294
@@ -3466,7 +3466,7 @@ msgstr "Ingen skjermnavn."
 #. address.
 #: actions/imsettings.php:328
 msgid "No transport."
-msgstr ""
+msgstr "Ingen transport."
 
 #. TRANS: Message given saving IM address that cannot be normalised.
 #: actions/imsettings.php:336
@@ -3476,7 +3476,7 @@ msgstr ""
 #. TRANS: Message given saving IM address that not valid.
 #: actions/imsettings.php:343
 msgid "Not a valid screenname."
-msgstr ""
+msgstr "Ingen gyldig skjermnavn."
 
 #. TRANS: Message given saving IM address that is already set for another
 #. user.
@@ -3951,7 +3951,7 @@ msgstr "Notis postet"
 #: actions/newnotice.php:66
 msgctxt "TITLE"
 msgid "New notice"
-msgstr ""
+msgstr "Ny notis"
 
 #. TRANS: Client error displayed trying to send a notice without content.
 #. TRANS: Command exception text shown when trying to reply to a notice

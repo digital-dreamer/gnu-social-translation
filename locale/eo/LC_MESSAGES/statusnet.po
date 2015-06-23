@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: GNU social\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-02 17:47+0100\n"
-"PO-Revision-Date: 2015-04-17 16:01+0000\n"
+"PO-Revision-Date: 2015-06-13 14:41+0000\n"
 "Last-Translator: Manuel Ortega <manuel@elarte.coop>\n"
 "Language-Team: Esperanto (http://www.transifex.com/projects/p/gnu-social/language/eo/)\n"
 "MIME-Version: 1.0\n"
@@ -1030,7 +1030,7 @@ msgstr ""
 #. having the right to do so.
 #: actions/apilistmembers.php:46
 msgid "You are not allowed to add members to this list."
-msgstr ""
+msgstr "Vi ne rajtas aldoni membrojn al tiu ĉi listo."
 
 #. TRANS: Client error displayed when trying to modify list members without
 #. specifying them.

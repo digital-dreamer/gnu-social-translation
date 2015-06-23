@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: GNU social\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-02 17:47+0100\n"
-"PO-Revision-Date: 2015-05-30 01:20+0000\n"
+"PO-Revision-Date: 2015-06-10 00:11+0000\n"
 "Last-Translator: Giuseppe Pignataro <rogepix@gmail.com>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/gnu-social/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -359,7 +359,7 @@ msgstr "Disconnetti"
 #. TRANS: Fieldset legend.
 #: actions/twittersettings.php:162
 msgid "Preferences"
-msgstr ""
+msgstr "Preferenze"
 
 #. TRANS: Checkbox label.
 #: actions/twittersettings.php:167

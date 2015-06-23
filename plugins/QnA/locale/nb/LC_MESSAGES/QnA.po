@@ -49,7 +49,7 @@ msgstr ""
 #: forms/qnanewquestion.php:110
 msgctxt "LABEL"
 msgid "Title"
-msgstr ""
+msgstr "Tittel"
 
 #. TRANS: Field title for a new question.
 #: forms/qnanewquestion.php:113
@@ -115,12 +115,12 @@ msgstr ""
 #. TRANS: Exception thrown when there are too many activity objects.
 #: QnAPlugin.php:171
 msgid "Too many activity objects."
-msgstr ""
+msgstr "For mange hendelses objekter."
 
 #. TRANS: Exception thrown when an incorrect object type is encountered.
 #: QnAPlugin.php:178
 msgid "Wrong type for object."
-msgstr ""
+msgstr "Feil type av objekt."
 
 #. TRANS: Exception thrown when answering a non-existing question.
 #: QnAPlugin.php:197
