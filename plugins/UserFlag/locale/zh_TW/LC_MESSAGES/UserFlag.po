@@ -52,7 +52,7 @@ msgstr ""
 #. requires a logged in user.
 #: actions/adminprofileflag.php:65
 msgid "Not logged in."
-msgstr ""
+msgstr "未登錄。"
 
 #. TRANS: Error message displayed when trying to review profile flags while
 #. not authorised.

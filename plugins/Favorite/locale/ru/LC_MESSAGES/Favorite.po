@@ -69,7 +69,7 @@ msgstr "Нет такой записи."
 #: actions/favor.php:62
 #, php-format
 msgid "%1$s has no right to reply to notice %2$d."
-msgstr ""
+msgstr "У %1$s нет прав отвечать на запись %2$d."
 
 #: classes/Fave.php:86
 #, php-format

@@ -131,7 +131,7 @@ msgstr ""
 #. requires a logged in user.
 #: actions/tagsub.php:97
 msgid "Not logged in."
-msgstr ""
+msgstr "未登錄。"
 
 #. TRANS: Client error displayed trying to subscribe to a non-existing
 #. profile.

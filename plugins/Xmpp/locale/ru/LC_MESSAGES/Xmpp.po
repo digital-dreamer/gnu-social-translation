@@ -101,4 +101,4 @@ msgstr ""
 #. TRANS: Message for XMPP reconnect.
 #: lib/xmppmanager.php:167 lib/xmppmanager.php:207
 msgid "Send me a message to post a notice"
-msgstr ""
+msgstr "Отправьте мне сообщение чтобы разместить запись"

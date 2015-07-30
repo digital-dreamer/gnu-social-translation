@@ -88,7 +88,7 @@ msgstr ""
 #. requires a logged in user.
 #: actions/finishaddopenid.php:66
 msgid "Not logged in."
-msgstr ""
+msgstr "未登錄。"
 
 #. TRANS: Status message in case the response from the OpenID provider is that
 #. the logon attempt was cancelled.

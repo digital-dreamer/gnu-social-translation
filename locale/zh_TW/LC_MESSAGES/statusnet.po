@@ -3,14 +3,15 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
+# Hong Xu <hong@topbug.net>, 2015
 # Po-Chun Huang <aphroteus@gmail.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: GNU social\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-02 17:47+0100\n"
-"PO-Revision-Date: 2015-03-26 09:54+0000\n"
-"Last-Translator: Po-Chun Huang <aphroteus@gmail.com>\n"
+"PO-Revision-Date: 2015-07-11 08:39+0000\n"
+"Last-Translator: Hong Xu <hong@topbug.net>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/gnu-social/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -183,7 +184,7 @@ msgstr ""
 #: lib/action.php:1510 lib/adminpanelaction.php:71
 #: lib/profileformaction.php:63 lib/settingsaction.php:73
 msgid "Not logged in."
-msgstr ""
+msgstr "未登錄。"
 
 #. TRANS: Client error displayed trying to perform an action related to a non-
 #. existing profile.
@@ -762,7 +763,7 @@ msgstr ""
 #: actions/apiconversation.php:101
 msgctxt "TITLE"
 msgid "Conversation"
-msgstr ""
+msgstr "會話"
 
 #. TRANS: Client error displayed when requesting profile information for a
 #. non-existing profile.
@@ -2190,7 +2191,7 @@ msgstr ""
 #. TRANS: Title for page with a conversion (multiple notices in context).
 #: actions/conversation.php:80
 msgid "Conversation"
-msgstr ""
+msgstr "會話"
 
 #. TRANS: Title for link to notice feed.
 #. TRANS: %s is a user nickname.

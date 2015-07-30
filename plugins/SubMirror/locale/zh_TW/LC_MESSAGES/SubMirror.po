@@ -158,7 +158,7 @@ msgstr ""
 #. requires a logged in user.
 #: actions/basemirror.php:136
 msgid "Not logged in."
-msgstr ""
+msgstr "未登錄。"
 
 #. TRANS: Page title for subscribed feed mirror.
 #: actions/basemirror.php:159

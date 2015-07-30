@@ -277,7 +277,7 @@ msgstr ""
 #. requires a logged in user.
 #: actions/timelist.php:65
 msgid "Not logged in."
-msgstr ""
+msgstr "未登錄。"
 
 #. TRANS: Client error when submitting a form with unexpected information.
 #: actions/timelist.php:72

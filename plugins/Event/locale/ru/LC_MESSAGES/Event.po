@@ -66,7 +66,7 @@ msgstr ""
 #: forms/event.php:103
 msgctxt "LABEL"
 msgid "Title"
-msgstr ""
+msgstr "Заголовок"
 
 #. TRANS: Field title on event form.
 #: forms/event.php:106
@@ -173,7 +173,7 @@ msgstr ""
 #. providing a title.
 #: actions/newevent.php:98
 msgid "Title required."
-msgstr ""
+msgstr "Требуется заголовок."
 
 #. TRANS: Client exception thrown when trying to post an event without
 #. providing a start date.
@@ -437,13 +437,13 @@ msgstr ""
 #. TRANS: Exception thrown when there are too many activity objects.
 #: EventPlugin.php:135
 msgid "Too many activity objects."
-msgstr ""
+msgstr "Слишком много объектов действия."
 
 #. TRANS: Exception thrown when event plugin comes across a non-event type
 #. object.
 #: EventPlugin.php:142
 msgid "Wrong type for object."
-msgstr ""
+msgstr "Неправильный тип объекта."
 
 #. TRANS: Exception thrown when trying to RSVP for an unknown event.
 #: EventPlugin.php:166
